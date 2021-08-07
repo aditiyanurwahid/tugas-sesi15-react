@@ -15,9 +15,9 @@ function App() {
     <body id="home">
       <nav class="navbar navbar-expand-lg navbar-dark bg-primary shadow-sm fixed-top">
         <div class="container">
-          <a class="navbar-brand" href="#home">
+          {/* <a class="navbar-brand" href="#home">
             Aditiya Nurwahid
-          </a>
+          </a> */}
           <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
           </button>
@@ -96,7 +96,7 @@ function App() {
           <div class="row justify-content-center">
             <div class="col-md-4 mb-3">
               <div class="card">
-                <img src={project1} class="card-img-top" alt="Projects 1" />
+                <img src={project9} class="card-img-top" alt="Projects 1" />
                 <div class="card-body">
                   <p class="card-text">Ke kampus naik ojek online, pulangnya gowes kursi roda. Walaupun tugasnya deadline, alhamdulillah akhirnya wisuda. Eeeaaa...</p>
                 </div>
@@ -104,7 +104,7 @@ function App() {
             </div>
             <div class="col-md-4 mb-3">
               <div class="card">
-                <img src={project2} class="card-img-top" alt="Projects 2" />
+                <img src={project8} class="card-img-top" alt="Projects 2" />
                 <div class="card-body">
                   <p class="card-text">Yang ini skip aja ya, terima kasih hehehe...</p>
                 </div>
@@ -112,7 +112,7 @@ function App() {
             </div>
             <div class="col-md-4 mb-3">
               <div class="card">
-                <img src={project3} class="card-img-top" alt="Projects 3" />
+                <img src={project7} class="card-img-top" alt="Projects 3" />
                 <div class="card-body">
                   <p class="card-text">Kalau yang ini Ibuku sendiri, "mirip kan?" pasti nggak bisa bedain. "Ya iyalah, kan mukanya enggak keliatan."</p>
                 </div>
@@ -120,7 +120,7 @@ function App() {
             </div>
             <div class="col-md-4 mb-3">
               <div class="card">
-                <img src={project4} class="card-img-top" alt="Projects 4" />
+                <img src={project6} class="card-img-top" alt="Projects 4" />
                 <div class="card-body">
                   <p class="card-text">
                     Nah, ini namanya Ibu Soraya (kiri) dari bagian mananya aku lupa, mohon maaf ya hehehe. Kursi roda yang di dapat tadi Ibu Soraya ini yang nyariin donasi. Ini juga udah kaya Ibu sendiri. Kalau yang (kanan) lupa namanya,
@@ -141,7 +141,7 @@ function App() {
             </div>
             <div class="col-md-4 mb-3">
               <div class="card">
-                <img src={project6} class="card-img-top" alt="Projects 6" />
+                <img src={project4} class="card-img-top" alt="Projects 6" />
                 <div class="card-body">
                   <p class="card-text">Waktu belajar berdiri, "udah kaya bunga mawar aja Dit", yeee itu mah berduri!!!</p>
                 </div>
@@ -149,7 +149,7 @@ function App() {
             </div>
             <div class="col-md-4 mb-3">
               <div class="card">
-                <img src={project7} class="card-img-top" alt="Projects 7" />
+                <img src={project3} class="card-img-top" alt="Projects 7" />
                 <div class="card-body">
                   <p class="card-text">Sesama paraplegi dilarang balapan lari, "emang kenapa Dit?" ya kan nggak bisa!!! hehehe...</p>
                 </div>
@@ -157,7 +157,7 @@ function App() {
             </div>
             <div class="col-md-4 mb-3">
               <div class="card">
-                <img src={project8} class="card-img-top" alt="Projects 8" />
+                <img src={project2} class="card-img-top" alt="Projects 8" />
                 <div class="card-body">
                   <p class="card-text">
                     Ini kursi rodanya, recomended buat paraplegi pemula karena ada bagian yang bisa lepas pasang untuk memudahkan berpindah tempat walaupun tanpa bantuan orang lain. Buat pemula lebih baik minta bantuan yah, dibantu nggak?
@@ -168,7 +168,7 @@ function App() {
             </div>
             <div class="col-md-4 mb-3">
               <div class="card">
-                <img src={project9} class="card-img-top" alt="Projects 9" />
+                <img src={project1} class="card-img-top" alt="Projects 9" />
                 <div class="card-body">
                   <p class="card-text">H+ lupa tepatnya berapa setelah operasi, dapet kursi roda gratis dari donatur... Yeay.</p>
                 </div>
@@ -225,7 +225,7 @@ function App() {
 
       <footer class="bg-primary text-white text-center pb-5">
         <p>
-          Created with <i class="bi bi-heart-fill text-danger"></i> by{" "}
+          Created <i class="bi bi-heart-fill text-danger"></i> by{" "}
           <a href="https://www.instagram.com/ditiyanurwahid/" class="text-white fw-bold">
             Aditiya Nurwahid
           </a>
