@@ -1,10 +1,11 @@
+import React from "react";
 import "./App.css";
-import Navbar from "./src/components/Navbar";
-import Jumbotron from "./src/components/Jumbotron";
-import About from "./src/components/About";
-import Gallery from "./src/components/Gallery";
-import Contact from "./src/components/Contact";
-import Footer from "./src/components/Footer";
+import Navbar from "./Navbar";
+import Jumbotron from "./Jumbotron";
+import About from "./About";
+import Gallery from "./Gallery";
+import Contact from "./Contact";
+import Footer from "./Footer";
 
 function App() {
   return (
