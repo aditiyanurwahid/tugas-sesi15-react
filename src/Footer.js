@@ -1,8 +1,10 @@
+import { FcLike } from "react-icons/fc";
+
 function Footer() {
   return (
     <footer class="bg-primary text-white text-center pb-5">
       <p>
-        Created <i class="bi bi-heart-fill text-danger"></i> by{" "}
+        Created with <FcLike /> by{" "}
         <a href="https://www.instagram.com/ditiyanurwahid/" class="text-white fw-bold">
           Aditiya Nurwahid
         </a>
