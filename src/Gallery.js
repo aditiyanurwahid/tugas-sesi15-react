@@ -45,7 +45,7 @@ function Gallery() {
           </div>
           <div class="col-md-4 mb-3">
             <div class="card">
-              <img src="img/project/6.jpg" class="card-img-top" alt="Projects 6" />
+              <img src={project6} class="card-img-top" alt="Projects 6" />
               <div class="card-body">
                 <p class="card-text">
                   Nah, ini namanya Ibu Soraya (kiri) dari bagian mananya aku lupa, mohon maaf ya hehehe. Kursi roda yang di dapat tadi Ibu Soraya ini yang nyariin donasi. Ini juga udah kaya Ibu sendiri. Kalau yang (kanan) lupa namanya, tapi
@@ -56,7 +56,7 @@ function Gallery() {
           </div>
           <div class="col-md-4 mb-3">
             <div class="card">
-              <img src="img/project/5.jpg" class="card-img-top" alt="Projects 5" />
+              <img src={project5} class="card-img-top" alt="Projects 5" />
               <div class="card-body">
                 <p class="card-text">
                   Dokter Ria biasa dipanggilnya, perhatian banget sama pasien. "Ya iyalah Dit kan tuntutan pekerjaan!!!", tetapi menurutku bukan sekedar tuntutan profesi tetapi memang niat dari dalam hati. Pokonya udah kaya Ibu sendiri.
@@ -66,7 +66,7 @@ function Gallery() {
           </div>
           <div class="col-md-4 mb-3">
             <div class="card">
-              <img src="img/project/5.jpg" class="card-img-top" alt="Projects 4" />
+              <img src={project4} class="card-img-top" alt="Projects 4" />
               <div class="card-body">
                 <p class="card-text">Waktu belajar berdiri, "udah kaya bunga mawar aja Dit", yeee itu mah berduri!!!</p>
               </div>
@@ -74,7 +74,7 @@ function Gallery() {
           </div>
           <div class="col-md-4 mb-3">
             <div class="card">
-              <img src="img/project/3.jpg" class="card-img-top" alt="Projects 3" />
+              <img src={project3} class="card-img-top" alt="Projects 3" />
               <div class="card-body">
                 <p class="card-text">Sesama paraplegi dilarang balapan lari, "emang kenapa Dit?" ya kan nggak bisa!!! hehehe...</p>
               </div>
@@ -82,7 +82,7 @@ function Gallery() {
           </div>
           <div class="col-md-4 mb-3">
             <div class="card">
-              <img src="img/project/2.jpg" class="card-img-top" alt="Projects 2" />
+              <img src={project2} class="card-img-top" alt="Projects 2" />
               <div class="card-body">
                 <p class="card-text">
                   Ini kursi rodanya, recomended buat paraplegi pemula karena ada bagian yang bisa lepas pasang untuk memudahkan berpindah tempat walaupun tanpa bantuan orang lain. Buat pemula lebih baik minta bantuan yah, dibantu nggak? ya
@@ -93,7 +93,7 @@ function Gallery() {
           </div>
           <div class="col-md-4 mb-3">
             <div class="card">
-              <img src="img/project/1.jpg" class="card-img-top" alt="Projects 1" />
+              <img src={project1} class="card-img-top" alt="Projects 1" />
               <div class="card-body">
                 <p class="card-text">H+ lupa tepatnya berapa setelah operasi, dapet kursi roda gratis dari donatur... Yeay.</p>
               </div>
