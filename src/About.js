@@ -9,10 +9,10 @@ function About() {
         </div>
         <div class="row justify-content-center fs-5 text-center">
           <div class="col-mb-4">
-            <p>Halo salam kenal, saya biasanya dipanggil nengok. Usia saya lebih muda 22 tahun dari usia Bapak saya. Hobi makan jajanan teman, bukan makan teman.</p>
+            <p>Saya adalah seorang penyandang disabilitas daksa bawah yang menggunakan alat bantu tongkat. Saya kesulitan naik turun tangga namun saya masih mampu berjalan dan berpindah-pindah tempat.</p>
           </div>
           <div class="col-mb-4">
-            <p>Salah satu keahlian saya adalah mengangkat galon air ke dispenser tanpa tumpah airnya sedikitpun, asalkan galonnya kosong. Cita-cita saya ingin menjadi karyawan tetap di PT. Mencari Cinta Sejati, sekian.</p>
+            <p>Pendidikan terakhir saya adalah D3 jurusan Sistem Informasi di Universitas Bina Sarana Informatika.</p>
           </div>
         </div>
       </div>
